@@ -1,0 +1,9 @@
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\TestRest.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\TestRest.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\Company.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\DAL.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\Company.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\bin\Debug\DAL.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\obj\Debug\TestRest.csprojResolveAssemblyReference.cache
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\obj\Debug\TestRest.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\TestRest\obj\Debug\TestRest.pdb

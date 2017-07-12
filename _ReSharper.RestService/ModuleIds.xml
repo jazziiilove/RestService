@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="8BBBD59D-85A0-47D4-9FA8-1602B50F1E70" ModuleId="Company" />
+  <Module PersistentId="BF0D7517-5A80-4E13-ABA4-B1C3CD7157AB" ModuleId="RestService" />
+  <Module PersistentId="BD0824A8-238C-4DA1-BC53-1B05A40DAD95" ModuleId="DAL" />
+  <Module PersistentId="CC564047-F766-4964-8DAD-65446D18EE4E" ModuleId="TestRest" />
+  <Module PersistentId="System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+</Modules>

@@ -1,0 +1,7 @@
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\bin\Debug\DAL.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\bin\Debug\DAL.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\bin\Debug\Company.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\bin\Debug\Company.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\obj\Debug\DAL.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\obj\Debug\DAL.pdb

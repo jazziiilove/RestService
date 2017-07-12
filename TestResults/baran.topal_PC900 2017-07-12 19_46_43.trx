@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e87711db-fced-42b8-ae5e-986caf08daa6" name="baran.topal@PC900 2017-07-12 19:46:43" runUser="TACTON\baran.topal" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="51fca9ac-796b-4950-a945-5ef8df696c15">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="baran.topal_PC900 2017-07-12 19_46_43">
+      <DeploymentItem filename="C:\Users\Baran.Topal\Desktop\RestService\RestService\Company\bin\Debug\Company.dll" />
+      <DeploymentItem filename="C:\Users\Baran.Topal\Desktop\RestService\RestService\DAL\bin\Debug\DAL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2017-07-12T19:46:43.3471285+02:00" queuing="2017-07-12T19:46:43.4035402+02:00" start="2017-07-12T19:46:43.4075509+02:00" finish="2017-07-12T19:46:43.7956155+02:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="POSTTest" storage="c:\users\baran.topal\desktop\restservice\restservice\testrest\bin\debug\testrest.dll" id="c789b138-77b4-ff7f-75d3-1e3c03a8abee">
+      <Execution id="7284bdc9-c4af-4f48-be8e-faa9c74e16a7" />
+      <TestMethod codeBase="C:/Users/Baran.Topal/Desktop/RestService/RestService/TestRest/bin/Debug/TestRest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRest.TestRest, TestRest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="POSTTest" />
+    </UnitTest>
+    <UnitTest name="GETTest" storage="c:\users\baran.topal\desktop\restservice\restservice\testrest\bin\debug\testrest.dll" id="6c0b2ee0-814a-360c-2b9d-19e89f1ea000">
+      <Execution id="2efa410d-2432-4cbc-ba9c-5e324b210550" />
+      <TestMethod codeBase="C:/Users/Baran.Topal/Desktop/RestService/RestService/TestRest/bin/Debug/TestRest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRest.TestRest, TestRest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GETTest" />
+    </UnitTest>
+    <UnitTest name="ConnectionTest" storage="c:\users\baran.topal\desktop\restservice\restservice\testrest\bin\debug\testrest.dll" id="6ef3a2e4-8955-1a18-af69-e6066f4c44c9">
+      <Execution id="f419af7d-34b5-4ed9-b079-abab93597f7d" />
+      <TestMethod codeBase="C:/Users/Baran.Topal/Desktop/RestService/RestService/TestRest/bin/Debug/TestRest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestRest.TestRest, TestRest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ConnectionTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6c0b2ee0-814a-360c-2b9d-19e89f1ea000" executionId="2efa410d-2432-4cbc-ba9c-5e324b210550" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ef3a2e4-8955-1a18-af69-e6066f4c44c9" executionId="f419af7d-34b5-4ed9-b079-abab93597f7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c789b138-77b4-ff7f-75d3-1e3c03a8abee" executionId="7284bdc9-c4af-4f48-be8e-faa9c74e16a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2efa410d-2432-4cbc-ba9c-5e324b210550" testId="6c0b2ee0-814a-360c-2b9d-19e89f1ea000" testName="GETTest" computerName="PC900" duration="00:00:00.0361510" startTime="2017-07-12T19:46:43.4100581+02:00" endTime="2017-07-12T19:46:43.7650341+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2efa410d-2432-4cbc-ba9c-5e324b210550">
+      <Output>
+        <StdOut>Sending GET Request
+Response from Server
+&lt;?xml version="1.0"?&gt;
+&lt;Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;Name&gt;Baran&lt;/Name&gt;
+  &lt;Id&gt;3550&lt;/Id&gt;
+  &lt;Age&gt;37&lt;/Age&gt;
+  &lt;Type&gt;permanent&lt;/Type&gt;
+&lt;/Employee&gt;</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f419af7d-34b5-4ed9-b079-abab93597f7d" testId="6ef3a2e4-8955-1a18-af69-e6066f4c44c9" testName="ConnectionTest" computerName="PC900" duration="00:00:00.0091608" startTime="2017-07-12T19:46:43.7660366+02:00" endTime="2017-07-12T19:46:43.7775684+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f419af7d-34b5-4ed9-b079-abab93597f7d">
+      <Output>
+        <StdOut>Testing Select command
+Emplyee Id - 3550
+Employee Name - Baran
+Employee Age  - 37
+Employee Type - permanent</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7284bdc9-c4af-4f48-be8e-faa9c74e16a7" testId="c789b138-77b4-ff7f-75d3-1e3c03a8abee" testName="POSTTest" computerName="PC900" duration="00:00:00.0036859" startTime="2017-07-12T19:46:43.7780687+02:00" endTime="2017-07-12T19:46:43.7845964+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7284bdc9-c4af-4f48-be8e-faa9c74e16a7">
+      <Output>
+        <StdOut>Testing POST Request
+Response</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

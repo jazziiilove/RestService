@@ -1,0 +1,4 @@
+C:\Users\Baran.Topal\Desktop\RestService\RestService\Company\bin\Debug\Company.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\Company\bin\Debug\Company.pdb
+C:\Users\Baran.Topal\Desktop\RestService\RestService\Company\obj\Debug\Company.dll
+C:\Users\Baran.Topal\Desktop\RestService\RestService\Company\obj\Debug\Company.pdb
